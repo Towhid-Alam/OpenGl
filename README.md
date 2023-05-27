@@ -10,6 +10,7 @@ backgrounds names are:
 5. Grass Pathway Right
 6. River Shore
 7. River
+
 [ 1 ] In “Sky” background, there are 7 mountains or 7 parts of a mountain which is made of 
 Triangles shape. 4 clouds are made of Polygon Shape. There are also 6 birds. The birds are 
 made of Lines. Each bird is drawn of 4 Lines.
